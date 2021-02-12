@@ -58,11 +58,13 @@ Exercise2: https://youtu.be/ee300lpVjK4
  ### Hint(s)
  For input:
  753BC-747BC
+ 
  Output must be:
  3
  
  For input:
  2000AD-2012AD
+ 
  Output must be:
  10
 
