@@ -6,6 +6,7 @@ First of all I solved them on my notebook to see the logic behind the problem. T
 Note: to run the code it is preferred to have Xcode installed and run it there. Literally just press the run button and let it do everything. It generates a random input using the ranges from the instructions. I will leave some links to the small videos i made and posted on YouTube of the code running.
 
 Exercise1: https://youtu.be/EfbOEckokjA
+
 Exercise2: https://youtu.be/ee300lpVjK4
  
  ## Exercise 1
