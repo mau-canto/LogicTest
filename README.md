@@ -4,6 +4,7 @@
 First of all I solved them on my notebook to see the logic behind the problem. Then I began to think about the variables and functins that I could use for the code. I wrote the down in my notebook. After that, I started to code using the playground and built different versions for each problem. Each one of the was like an update to do more things and to get closer to the expected result. Finally, I place the last version of each code in a project using the Command Line Tool on Xcode. It solved everything faster than leaving it on the playground.
 
 Note: to run the code it is preferred to have Xcode installed and run it there. Literally just press the run button and let it do everything. It generates a random input using the ranges from the instructions. I will leave some links to the small videos i made and posted on YouTube of the code running.
+
 Exercise1: https://youtu.be/EfbOEckokjA
 Exercise2: https://youtu.be/ee300lpVjK4
  
