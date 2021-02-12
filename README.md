@@ -17,11 +17,15 @@ Exercise2: https://youtu.be/ee300lpVjK4
  Output T lines, one for each test case, containing the required direction you will be facing at the end. Output L for left, R for right, U for up, and D for down. 1 <= T <= 5000, 1 <= N,M <= 10^9.
  
  ### Input example
- 4           .
- 1 1           .
- 2 2           .
- 3 1           .
- 3 3           .
+ 4
+ 
+ 1 1
+ 
+ 2 2  
+ 
+ 3 1  
+
+3 3   
 
 ### Output example
  R           .
