@@ -28,10 +28,13 @@ Exercise2: https://youtu.be/ee300lpVjK4
 3 3   
 
 ### Output example
- R           .
- L           .
- D           .
- R           .
+ R     
+ 
+ L    
+ 
+ D     
+ 
+ R     
  
  ## Exercise 2
  A well-known software development company has been commissioned by the Archaeological Society. One of the modules has to help the archaeologists to process data about the ruins of buildings they have found during their excavations of ancient cities. Development of this module has been assigned to Vasya.
